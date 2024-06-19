@@ -7,10 +7,10 @@ function ErrorProvider({children}) {
 
     const errorList = [
         { title: "100 Continue", imageUrl: "https://media.discordapp.net/attachments/1253009654389145711/1253013329236983838/400px-SC-E5-TBC.png?ex=66744f19&is=6672fd99&hm=37b7f75774946eb25588603ed4e23444c58866974eff44e86c14877d4afd0450&=&format=webp&quality=lossless" },
-        { title: "101 Switching Protocols", imageUrl: "https://media.discordapp.net/attachments/1253009654389145711/1253012520466251786/6a2d56eed98439a1b8687b4464ec89df.png?ex=66744e58&is=6672fcd8&hm=aa073a501ec77cd318b851f9edbcf2593ce262eadf19dd08e0f2561c6243212e&=&format=webp&quality=lossless&width=1193&height=671" },
+        { title: "101 Switching Protocols", imageUrl: "https://github.com/demsuru/anime-http-error/blob/main/src/images/101.png?raw=true" },
         { title: "102 Processing", imageUrl: "https://media.discordapp.net/attachments/1253009654389145711/1253015028085428336/s_day11-23-01.png?ex=667450ae&is=6672ff2e&hm=74dc293c539488070c0516dff300b6daf1b33e48f474f359e7a988bbd72f76aa&=&format=webp&quality=lossless" },
         { title: "103 Early Hints", imageUrl: "https://media.discordapp.net/attachments/1253009654389145711/1253016239807135825/yotsuba-Go-Toubun-no-Hanayome.png?ex=667451cf&is=6673004f&hm=e75c83797d2b4ddb8c63c35ec62a5933aecfb407aa2e4233a9a0aff9a86af4ce&=&format=webp&quality=lossless" },
-        { title: "200 OK", imageUrl: "https://github.com/demsuru/anime-http-error/blob/main/images/http200.jpg?raw=true" },
+        { title: "200 OK", imageUrl: "https://github.com/demsuru/anime-http-error/blob/main/src/images/http200.jpg?raw=true" },
         { title: "201 Created", imageUrl: "" },
         { title: "202 Accepted", imageUrl: "https://cdn.discordapp.com/attachments/1253009654389145711/1253023731597443123/vinland-saga-s2-ep-9-thorfinn-wakes-up-in-a-peaceful-field-smiling.png?ex=667458c9&is=66730749&hm=5607dca8a9b0896d841dc50b9ab90fba2e7c3972853e09de391f25cf3140ab4a&" },
         { title: "203 Non-Authoritative Information", imageUrl: "" },
