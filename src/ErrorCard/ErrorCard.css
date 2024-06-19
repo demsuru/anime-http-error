@@ -3,19 +3,23 @@
     border-radius: 8px;
     overflow: hidden;
     width: 300px;
-    margin: 20px;
+    margin: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
+    background-color: #000000;
   }
   
   .error-image {
     width: 100%;
     height: auto;
+    margin: 0;
   }
   
   .error-title {
     font-size: 1rem;
     padding: 10px;
-    background-color: #3F72AF;
+    background-color: #000000;
+    margin: 0;
+    color:beige;
   }
   
