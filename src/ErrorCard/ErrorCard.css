@@ -1,0 +1,21 @@
+.error-card {
+    border: 1px solid #3F72AF;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 300px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .error-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .error-title {
+    font-size: 1rem;
+    padding: 10px;
+    background-color: #3F72AF;
+  }
+  
