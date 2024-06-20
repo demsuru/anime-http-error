@@ -1,26 +1,28 @@
 .header {
-    background: rgb(22,0,1);
-    background: radial-gradient(circle, rgba(22,0,1,1) 0%, rgba(51,0,0,1) 69%, rgba(78,0,0,1) 100%);
-    padding: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 40px;
-  }
-  
-  .logo-container {
-    display: flex;
-    align-items: center;
-  }
-  
-  .logo {
-    width: 50px;
-    height: 50px;
-    margin-right: 15px;
-  }
-  
-  .web-name {
-    color: beige;
-    font-size: 1.5rem;
-  }
-  
+  background: rgb(22, 0, 1);
+  background: radial-gradient(circle, rgba(22, 0, 1, 1) 0%, rgba(51, 0, 0, 1) 69%, rgba(78, 0, 0, 1) 100%);
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+}
+
+
+
+.header-title {
+  font-size: 1.5rem;
+  color: beige;
+  margin: 0;
+}
+
+
+.header-icon {
+  height: 30px; /* Ajusta el tamaño del icono de GitHub */
+  margin-left: 20px;
+}
+
+.header-right a {
+  display: flex;
+  align-items: center;
+}

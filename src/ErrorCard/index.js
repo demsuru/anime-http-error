@@ -1,5 +1,5 @@
 import React from 'react';
-import './ErrorCard.css'; // Asegúrate de crear este archivo para los estilos
+import './ErrorCard.css';
 
 const ErrorCard = ({ title, imageUrl }) => {
   return (
